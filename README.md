@@ -5,3 +5,6 @@ Src: [Store.java](src/Store/Store.java)
 
 ## Challenge 2 - Interfaces
 Src: [Map.java](src/Map/Map.java)
+
+## Challenge 3 - Generics
+Src: [Locations.java](src/Locations/Locations.java)
