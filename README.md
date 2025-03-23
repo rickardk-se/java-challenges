@@ -8,3 +8,6 @@ Src: [Map.java](src/Map/Map.java)
 
 ## Challenge 3 - Generics
 Src: [Locations.java](src/Locations/Locations.java)
+
+## Challenge 4 - Comparators
+Src: [Main.java](src/Student/Main.java)
