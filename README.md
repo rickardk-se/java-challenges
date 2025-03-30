@@ -11,3 +11,8 @@ Src: [Locations.java](src/Locations/Locations.java)
 
 ## Challenge 4 - Comparators
 Src: [Main.java](src/Student/Main.java)
+
+## Challenge 5 - Nested Classes
+Src: [Employee/Main.java](src/NestedClasses/Employee/Main.java)
+
+Src: [Meal/](src/NestedClasses/Meal/)
