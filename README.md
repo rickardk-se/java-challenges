@@ -16,3 +16,6 @@ Src: [Main.java](src/Student/Main.java)
 Src: [Employee/Main.java](src/NestedClasses/Employee/Main.java)
 
 Src: [Meal/](src/NestedClasses/Meal/)
+
+## Challenge 6 - Lambda Expressions
+Src: [Names.java](src/Lambda/Names.java)
