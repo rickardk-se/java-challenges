@@ -19,3 +19,6 @@ Src: [Meal/](src/NestedClasses/Meal/)
 
 ## Challenge 6 - Lambda Expressions
 Src: [Names.java](src/Lambda/Names.java)
+
+## Challenge 7 - Method References
+Src: [Main.java](src/MethodReferences/Main.java)
